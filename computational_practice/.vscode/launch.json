@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/adam/Projects/cpp_unvst/sem2/computationalPractice",
+      "program": "/Users/adam/Projects/cpp_unvst/sem2/computationalPractice/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}
